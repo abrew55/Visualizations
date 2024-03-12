@@ -1,3 +1,5 @@
+This repo is a running list of some of the better visualizations I've made over time. 
+
 For Sex#2, Race#2, Off#1, and Age#1, I uploaded a png of the race codes and a pdf of the offense codes. These all were made in R for my statistics capstone project which deals with Missouri crime data in 2022 (by way of NIBRS)
 
-For the Datafest powerpoint, the visualizations come from the 2023 Missouri DataFest competition. The data comes from a company providing pro-bono legal services via call ins. The data housed a number of different predictors, but our group focused on the transcribed conversations that actually took place between legal experts and those seeking help. We then took those conversations and analyzed them with a natural language processor that would input a value from 1 to -1 based on the "sentimentality" (tone) of the conversation. The geographical visualizations were done in Tableau, and the boxplot was done in R.
+I explained the other plots further in the extended description upon upload. 
